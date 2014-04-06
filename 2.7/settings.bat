@@ -142,3 +142,7 @@ set OPENPYXL_DOWNLOAD="https://pypi.python.org/packages/source/o/openpyxl/openpy
 set OPENPYXL_FILE=openpyxl-1.8.5.tar.gz
 set OPENPYXL_FILE_TAR=openpyxl-1.8.5.tar
 set OPENPYXL_MD5=6f2eca608c3129dbfd77982713565709
+
+set PYCHARM_DOWNLOAD="http://download.jetbrains.com/python/pycharm-community-3.1.1.exe"
+set PYCHARM_FILE=pycharm-community-3.1.1.exe
+set PYCHARM_MD5=610522DA6E8092896CEDA4355C2DBFC6
